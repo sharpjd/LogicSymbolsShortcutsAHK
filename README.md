@@ -8,3 +8,4 @@ The instructions should be displayed upon the app opening.
 
 You can also just double-click the .ahk file to run it if you have AHK installed.
 
+AHK only supports Windows. Sorry Mac users!
